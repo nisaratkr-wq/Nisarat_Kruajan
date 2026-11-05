@@ -27,9 +27,7 @@ Source Code สำหรับระบบจัดการข้อมูล�
 https://github.com/nisaratkr-wq/character-designer-cms
 
 ## Project Presentation
-- Project File PDF :
 - Project Video: https://youtu.be/h91QeqSWKyU
-- Project Poster: [แนบไฟล์ Poster PDF หรือใส่ลิงก์ไฟล์]
 
 ## Author
 Nisarat Kruajan
